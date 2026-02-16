@@ -11,6 +11,7 @@ export * from './Progress';
 export * from './Slider';
 export * from './Switch';
 export * from './TextInput';
+export * from './SearchBar';
 export * from './Shape';
 export * from './BottomSheet';
 export * from './Carousel';
